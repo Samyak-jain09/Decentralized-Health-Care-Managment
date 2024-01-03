@@ -7,9 +7,9 @@ By-
 -Samyak Jain (2020A7PS0089P)
 
 Tech Stack -
-NextJS
-Solidity
-Node
+NextJS,
+Solidity,
+Node,
 React
 
 Environment Variables -
