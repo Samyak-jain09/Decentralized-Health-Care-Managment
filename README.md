@@ -1,10 +1,10 @@
 Blockchain based patient health record management system 
 
 By- 
-Jaysheel Shah (2020A7PS0083P)                                          
-Aryan Desai (2020A7PS0123P)
-Shreyas Ketkar (2020A7PS0075P)                                         
-Samyak Jain (2020A7PS0089P)
+-Jaysheel Shah (2020A7PS0083P)                                          
+-Aryan Desai (2020A7PS0123P)
+-Shreyas Ketkar (2020A7PS0075P)                                         
+-Samyak Jain (2020A7PS0089P)
 
 Tech Stack -
 NextJS
